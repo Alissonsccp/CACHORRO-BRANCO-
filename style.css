@@ -1,0 +1,30 @@
+.imagem_robo{
+    align-items: center;
+}
+.título{
+        font-family: 'Inter', sans-serif;
+        font-weight: 900;
+        font-size: 80px;
+        display: flex;
+        justify-content: center;
+        padding: 30px;
+    }
+
+.primeiro__texto{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+}
+.divisão__texto__segundo{
+    display: inline-flex;
+}
+
+
+.segundo__texto{
+    width: 900px;
+
+}
+.segunda__imagem{
+    
+
+}
